@@ -1,0 +1,15 @@
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\bin\Debug\net6.0\ExProperties.exe
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\bin\Debug\net6.0\ExProperties.deps.json
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\bin\Debug\net6.0\ExProperties.runtimeconfig.json
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\bin\Debug\net6.0\ExProperties.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\bin\Debug\net6.0\ExProperties.pdb
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.csproj.AssemblyReference.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.AssemblyInfoInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.AssemblyInfo.cs
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.csproj.CoreCompileInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\refint\ExProperties.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.pdb
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ExProperties.genruntimeconfig.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\ref\ExProperties.dll

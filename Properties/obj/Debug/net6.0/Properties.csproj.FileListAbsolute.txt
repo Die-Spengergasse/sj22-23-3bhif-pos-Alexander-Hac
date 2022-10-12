@@ -1,0 +1,5 @@
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
