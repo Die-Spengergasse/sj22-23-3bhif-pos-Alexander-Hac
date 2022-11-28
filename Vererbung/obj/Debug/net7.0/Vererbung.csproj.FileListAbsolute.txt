@@ -1,0 +1,15 @@
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\bin\Debug\net7.0\Vererbung.exe
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\bin\Debug\net7.0\Vererbung.deps.json
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\bin\Debug\net7.0\Vererbung.runtimeconfig.json
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\bin\Debug\net7.0\Vererbung.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\bin\Debug\net7.0\Vererbung.pdb
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.csproj.AssemblyReference.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.AssemblyInfoInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.AssemblyInfo.cs
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.csproj.CoreCompileInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\refint\Vererbung.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.pdb
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\Vererbung.genruntimeconfig.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\Vererbung\obj\Debug\net7.0\ref\Vererbung.dll
