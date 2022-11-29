@@ -1,0 +1,15 @@
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\bin\Debug\net7.0\LambdaExcercise.exe
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\bin\Debug\net7.0\LambdaExcercise.deps.json
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\bin\Debug\net7.0\LambdaExcercise.runtimeconfig.json
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\bin\Debug\net7.0\LambdaExcercise.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\bin\Debug\net7.0\LambdaExcercise.pdb
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.csproj.AssemblyReference.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.AssemblyInfoInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.AssemblyInfo.cs
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.csproj.CoreCompileInputs.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\refint\LambdaExcercise.dll
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.pdb
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\LambdaExcercise.genruntimeconfig.cache
+C:\HTL\3BHIF\POS_Übungen\sj22-23-3bhif-pos-Alexander-Hac\LambdaExcercise\obj\Debug\net7.0\ref\LambdaExcercise.dll

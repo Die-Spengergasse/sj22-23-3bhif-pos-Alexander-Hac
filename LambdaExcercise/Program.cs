@@ -5,20 +5,24 @@
     {
         Console.WriteLine("Beispiel 1: Converter");
         decimal[] converted = LambdaTest.Converter(new decimal[] { -10, 0, 10, 20, 30 }, d => d + 273.15M);
-        LambdaTest.ForEach(converted, PrintValue);
+        LambdaTest.ForEach(converted, d => Console.WriteLine(d));
 
         Console.WriteLine("Beispiel 2: Filter");
-        decimal[] freezed = LambdaTest.Filter(converted, WasserGefriert);
-        LambdaTest.ForEach(freezed, PrintValue);
+        decimal[] freezed = LambdaTest.Filter(converted, d => d < 273.15M);
+        LambdaTest.ForEach(freezed, d => Console.WriteLine(d));
 
         Console.WriteLine("Beispiel 3: Division");
-        decimal result = LambdaTest.ArithmeticOperation(2, 0, DivideSafe);
+        decimal result = LambdaTest.ArithmeticOperation(2, 0, (x, y) => (y == 0)? 0 : x/y);
         Console.WriteLine(result);
-        result = LambdaTest.ArithmeticOperation(2, 0, Divide, PrintError);
+        result = LambdaTest.ArithmeticOperation(2, 0, (x, y) => x/y , mes => Console.Error.WriteLine(mes));
         Console.WriteLine(result);
 
         Console.WriteLine("Beispiel 4: Callback Funktion");
-        LambdaTest.RunCommand(SayHello);
+        LambdaTest.RunCommand(
+        ()=> {
+                Console.WriteLine("Hello World.");
+                Console.WriteLine("Hello World again.");
+        });
 
         Console.ReadLine();
     }

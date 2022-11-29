@@ -26,7 +26,7 @@ public class LambdaTest
     /// </summary>
     /// <param name="values">Wertearray</param>
     /// <param name="action">Funktion, die ausgeführt wird.</param>
-    public static void ForEach(decimal[] values, ??? action)
+    public static void ForEach(decimal[] values, Action<decimal> action)
     {
         foreach (decimal value in values)
         {
@@ -41,7 +41,7 @@ public class LambdaTest
     /// <param name="y">2. Zahl</param>
     /// <param name="operation">Funktion mit der arithmetischen Operation</param>
     /// <returns></returns>
-    public static decimal ArithmeticOperation(decimal x, decimal y, ??? operation)
+    public static decimal ArithmeticOperation(decimal x, decimal y, Func<decimal, decimal, decimal> operation)
     {
         return operation(x, y);
     }
@@ -56,8 +56,8 @@ public class LambdaTest
     /// <param name="logFunction">Funktion, die die Fehlermeldung weiterverarbeitet.</param>
     /// <returns></returns>
     public static decimal ArithmeticOperation(decimal x, decimal y,
-        ??? operation,
-        ??? logFunction)
+        Func<decimal, decimal, decimal> operation,
+        Action<string> logFunction)
     {
         try
         {
@@ -75,7 +75,7 @@ public class LambdaTest
     /// Ruft die übergebene Funktion auf.
     /// </summary>
     /// <param name="command">Die Funktion, die aufgerufen werden soll.</param>
-    public static void RunCommand(??? command)
+    public static void RunCommand(Action command)
     {
         command();
     }
@@ -86,7 +86,7 @@ public class LambdaTest
     /// <param name="values">Array von Werten.</param>
     /// <param name="filterFunction">Filterfunktion</param>
     /// <returns></returns>
-    public static decimal[] Filter(decimal[] values, ??? filterFunction)
+    public static decimal[] Filter(decimal[] values, Func<decimal, bool> filterFunction)
     {
         List<decimal> result = new List<decimal>();
         foreach (decimal value in values)
